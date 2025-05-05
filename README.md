@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/agentwong-optimized-memory-mcp-server-badge.png)](https://mseep.ai/app/agentwong-optimized-memory-mcp-server)
+
 # optimized-memory-mcp-server
 
 This is to test and demonstrate Claude AI's coding abilities, as well as good AI workflows and prompt design.
